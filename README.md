@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AyeMinn00
 - 👀 I’m interested in problem solving...
-- 🌱 I’m currently learning Android , Alogrithms
-- 📫 How to reach me ...
+- 🌱 I’m currently learning blah balh bhla
 
 <!---
 AyeMinn00/AyeMinn00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
